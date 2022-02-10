@@ -19,7 +19,7 @@
     "@types/react": "^16.9.19",
     "@types/stats": "^0.16.30",
     "@zeit/next-sass": "^1.0.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "raw-loader": "^4.0.0",
     "stats.js": "^0.17.0",
     "typescript": "^3.7.5"
